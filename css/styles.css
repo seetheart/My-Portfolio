@@ -717,6 +717,9 @@ Skills
 .value-80 {
   width: 80%;
 }
+.value-90 {
+  width: 90%;
+}
 .skill-text {
   position: absolute;
   top: -2rem;
@@ -729,6 +732,9 @@ Skills
 }
 .skill-text-80 {
   left: 80%;
+}
+.skill-text-90 {
+  left: 90%;
 }
 /*
 =============== 
